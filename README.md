@@ -20,8 +20,3 @@
 스터디원들은 각자 브랜치 생성 없이 main에 바로 커밋해도 됩니다.  
 문제풀이 위주의 레포라 merge conflict가 거의 없습니다.
 
----
-
-##  문의
-GitHub Organization: **AlgoTrackers**  
-Repository: https://github.com/AlgoTrackers/AlgoStudy
