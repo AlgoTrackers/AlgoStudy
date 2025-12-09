@@ -1,4 +1,5 @@
 // FizzBuzz
+// isNaN 숫자변환 가능하면 false, 불가능하면 true
 
 const fs = require("fs");
 const input = fs.readFileSync(0, "utf8").trim().split("\n");
